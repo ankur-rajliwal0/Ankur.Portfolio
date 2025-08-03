@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+  background-color: #09101A;
+} */
+
+.bg_nav {
+  background-color: #0E1620;
+}
+
+.bg-subscribe {
+  position: relative;
+  background-image: url("./Assets/Images/png/Subscribe.jpg");
+  background-size: cover;
+  background-position: center;
+  z-index: 0;
+}
+
+.bg-subscribe::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  pointer-events: none; /* ✅ allows clicks to pass through */
+}
