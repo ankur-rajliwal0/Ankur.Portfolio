@@ -15,9 +15,9 @@ function Hero() {
                             Dedicated to delivering clean code, great UI/UX, and performance-optimized websites
                         </p>
                         <div className="flex gap-8 items-center max-sm:flex-col max-sm:gap-4 mt-8">
-                             <button className='bg-[#55E6A5]  font-popins px-6 py-1 transition duration-300 flex items-center mt-5 hover:bg-[#09101A] hover:text-white hover:scale-110 border-[1px] border-tranparent max-sm:px-2 max-sm:py-0  hover:border-[#55E6A5]'>
+                            <a href="../Assets/pdf/Ankur Resume.pdf" download={"Ankur Resume.pdf"}> <button className='bg-[#55E6A5]  font-popins px-6 py-1 transition duration-300 flex items-center mt-5 hover:bg-[#09101A] hover:text-white hover:scale-110 border-[1px] border-tranparent max-sm:px-2 max-sm:py-0  hover:border-[#55E6A5]'>
                             download CV   <IoIosCodeDownload className='text-[50px] bg-transparent' />
-                        </button>
+                        </button></a>
                          <a href="#contact"><button className='bg-[#09101A]  font-popins px-12 py-4  transition duration-300 flex items-center mt-5  text-white hover:scale-110 border-[1px]  hover:text-black border-[#55E6A5] max-sm:px-6 max-sm:py-1 hover:bg-[#55E6A5] hover:text-black]'>
                             Hire Me  
                         </button></a>

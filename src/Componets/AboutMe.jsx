@@ -16,9 +16,11 @@ function AboutMe() {
                             <div>
                                 <div className="lg:text-[20px] max-lg:text-[15px] font-popins text-gray-400 " data-aos="fade-up-right">I enjoy solving real-world problems using code and constantly strive to learn new technologies.
 With a creative mind and attention to detail, I aim to deliver seamless digital experiences.</div>
-                                <button className='bg-[#55E6A5]  font-popins px-6 py-1 transition duration-300 flex items-center lg:mt-[90px] max-md:mt-[20px] hover:bg-[#09101A] hover:text-white hover:scale-110 border-[1px] border-tranparent  hover:border-[#55E6A5]  max-md:py-2 ' data-aos="fade-up-right">
+                               <a  href="../Assets/pdf/Ankur Resume.pdf" download={"Ankur Resume.pdf"}>
+                                 <button className='bg-[#55E6A5]  font-popins px-6 py-1 transition duration-300 flex items-center lg:mt-[90px] max-md:mt-[20px] hover:bg-[#09101A] hover:text-white hover:scale-110 border-[1px] border-tranparent  hover:border-[#55E6A5]  max-md:py-2 ' data-aos="fade-up-right">
                                     download CV   <IoIosCodeDownload className='lg:text-[50px] bg-transparent' />
                                 </button>
+                               </a>
                             </div>
                         </div>
                     </div>

@@ -26,8 +26,8 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <p className="text-sm text-gray-300">Hisar, Haryana, India</p>
-            <p className="text-sm text-gray-300">ankur@email.com</p>
-            <p className="text-sm text-gray-300">+91 98765 43210</p>
+            <p className="text-sm text-gray-300">ankur.rajliwal33@gmail.com</p>
+            <p className="text-sm text-gray-300">+91 70828 92696</p>
           </div>
         </div>
 
