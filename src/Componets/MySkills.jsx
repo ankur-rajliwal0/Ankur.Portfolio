@@ -27,7 +27,7 @@ function MySkills() {
       <div className="container flex justify-center flex-col items-center">
         <h5 className='font-popins text-[40px] font-semibold  text-[#55E6A5]'>My Skills</h5>
         
-        <div className="w-full mt-20 px-4">
+        <div className="w-full mt-20 px-4" data-aos="zoom-in">
           <Swiper
             slidesPerView={3}
             spaceBetween={30}

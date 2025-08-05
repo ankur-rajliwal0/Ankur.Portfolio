@@ -17,7 +17,7 @@ function Services() {
         <div className="flex flex-row flex-wrap items-center mx-[-12px] lg:pt-[120px] sm:pt-[100px] pt-[50px] max-md:gap-10">
 
           {/* Row 1 */}
-          <div className=" w-4/12 max-lg:w-6/12 px-3 max-md:w-full " data-aos="flip-"
+          <div className=" w-4/12 max-lg:w-6/12 px-3 max-md:w-full " data-aos="flip-right"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000">
             <div className='border-[1px] border-gray-600 p-6 relative hover:scale-105 transition duration-300 hover:border-[#55E6A5] hover:bg-[#09101a81] hover:border-2 '>

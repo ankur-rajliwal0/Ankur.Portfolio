@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import NavBar from './Componets/NavBar';
 import Hero from './Componets/Hero';
@@ -14,6 +13,7 @@ import 'aos/dist/aos.css';
 import { useEffect } from 'react';
 import MySkills from './Componets/MySkills';
 import Projects from './Componets/Projects';
+import FigmaDesign from './Componets/FigmaDesign';
 
 function App() {
   useEffect(() => {
@@ -29,7 +29,8 @@ function App() {
       <Hero/>
       <Services/>
       <AboutMe/>
-      <Projects/>
+      {/* <Projects/> */}
+      <FigmaDesign/>
       <MySkills/>
       <Contact/>
       <Subscribe/>

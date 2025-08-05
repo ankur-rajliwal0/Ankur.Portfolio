@@ -9,7 +9,7 @@ function Contact() {
             <div className="container">
                 <div className="flex flex-row flex-wrap mx-[-12px] max-lg:gap-10  ">
                     <div className="lg:w-6/12 px-3 max-lg:w-full pt-[150px] max-lg:justify-center" data-aos="fade-up-right">
-                        <h2 className='lg:text-[80px] max-lg:text-[60px] max-md:text-[40px]   font-popins text-white font-bold max-w-[430px] leading-10 text-center'>Contact <span className='lg:text-[40px] max-lg:text-[35px] max-md:[25px]'>Me Today</span></h2>
+                        <h2 className='lg:text-[80px] max-lg:text-[60px] max-md:text-[40px]   font-popins  font-bold max-w-[430px] leading-10 text-center text-[#55E6A5]'>Contact <span className='lg:text-[40px] max-lg:text-[35px] max-md:[25px] text-white'>Me Today</span></h2>
                         <p className='lg:text-[20px] max-lg:[15px] font-popins text-gray-500 lg:mt-[40px] text-center' data-aos="zoom-in-up">If you have a project idea, a question, or just want to connect, feel free to reach out. I'm always open to new opportunities, collaborations, or a quick chat. Whether it's web development, design, or something creative — I'd love to hear from you. Let's build something awesome together!
                         </p>
                         <div className="flex justify-between mt-7 max-lg:flex-col max-lg:gap-5 max-lg:items-center px-3">
