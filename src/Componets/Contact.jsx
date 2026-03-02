@@ -29,10 +29,10 @@ function Contact() {
                     <div className="bg-[#09101A] p-10 ">
                         <h3 className='font-popins text-white lg:text-[40px] max-lg:text-[30px]' data-aos="fade-up-left">Send A Message</h3>
                         <div className="flex flex-col gap-10 max-lg:items-center"  data-aos="zoom-in-up">
-                            <input type="text" placeholder='Your Name' className='border-[1px] w-full lg:h-[70px] px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
-                        <input type="text" placeholder='Your Email' className='border-[1px] w-full lg:h-[70px] px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
-                        <input type="text" placeholder='Phone Number' className='border-[1px] w-full lg:h-[70px] px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
-                        <textarea type="text" placeholder='Your Message...' className='p-4 h-40 border-[1px] w-full px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
+                            <input type="text" placeholder='Your Name' className='border-[1px] text-white w-full lg:h-[70px] px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
+                        <input type="text" placeholder='Your Email' className='border-[1px] text-white w-full lg:h-[70px] px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
+                        <input type="text" placeholder='Phone Number' className='border-[1px] text-white w-full lg:h-[70px] px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
+                        <textarea type="text" placeholder='Your Message...' className='p-4  text-white h-40 border-[1px] w-full px-4 border-[#55E6A5] bg-transparent outline-none focus:outline focus:outline-2 focus:text-white' />
                         <button className='text-black font-popins px-4 py-3 bg-[#55E6A5] max-w-[200px] hover:bg-[#141C27] hover:text-white  transition duration-300 ease-in-out  ' data-aos="zoom-in-up">Submit Now</button>
                         </div>
                     </div>

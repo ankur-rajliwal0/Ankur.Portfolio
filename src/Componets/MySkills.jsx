@@ -8,7 +8,7 @@ import Css from "../Assets/Images/Svg/css3-01-svgrepo-com.svg";
 import js from "../Assets/Images/Svg/js-svgrepo-com.svg";
 import Reeact from "../Assets/Images/Svg/react-svgrepo-com.svg";
 import NodeJS from "../Assets/Images/Svg/nodejs-icon-logo-svgrepo-com.svg";
-import Jquerry from "../Assets/Images/Svg/jquery-1-logo-svgrepo-com.svg";
+import Tailwind from "../Assets/Images/Svg/tailwind-svgrepo-com.svg";
 import MongoDb from "../Assets/Images/Svg/mongodb-logo-svgrepo-com.svg";
 
 function MySkills() {
@@ -16,10 +16,11 @@ function MySkills() {
     { icon: Html, name: "HTML5" },
     { icon: Css, name: "CSS3" },
     { icon: js, name: "JavaScript" },
+    { icon: Tailwind, name: "Tailwind CSS" },
     { icon: Reeact, name: "React" },
     { icon: NodeJS, name: "NodeJS" },
     { icon: MongoDb, name: "MongoDB" },
-    { icon: Jquerry, name: "jQuery" }
+   
   ];
 
   return (

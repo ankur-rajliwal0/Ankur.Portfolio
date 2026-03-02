@@ -30,7 +30,7 @@ function App() {
       <Services/>
       <AboutMe/>
       {/* <Projects/> */}
-      <FigmaDesign/>
+      {/* <FigmaDesign/> */}
       <MySkills/>
       <Contact/>
       <Subscribe/>
