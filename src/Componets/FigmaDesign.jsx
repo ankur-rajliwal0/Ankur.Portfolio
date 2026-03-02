@@ -34,7 +34,7 @@ function FigmaDesign() {
    <section className='bg-black'>
      <div className="container">
         <div className="py-12 px-0 ">
-      <h2 className="text-3xl font-bold text-center mb-8 text-white font-popins"></h2>
+     
       <Swiper data-aos="zoom-in"
         effect={'coverflow'}
         grabCursor={true}

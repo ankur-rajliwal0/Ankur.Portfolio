@@ -12,8 +12,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';
 import MySkills from './Componets/MySkills';
-import Projects from './Componets/Projects';
-import FigmaDesign from './Componets/FigmaDesign';
+
 
 function App() {
   useEffect(() => {
@@ -29,8 +28,7 @@ function App() {
       <Hero/>
       <Services/>
       <AboutMe/>
-      {/* <Projects/> */}
-      {/* <FigmaDesign/> */}
+    
       <MySkills/>
       <Contact/>
       <Subscribe/>
